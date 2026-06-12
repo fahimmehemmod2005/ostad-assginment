@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:new_flutter_application_1/assignment_3/assignment_3.dart';
+import 'package:new_flutter_application_1/assignment_3/assignment_3_about.dart';
+import 'package:new_flutter_application_1/assignment_3/assignment_3_home.dart';
 
 void main() {
   runApp(MyApp());
